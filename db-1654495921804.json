@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "title": "Harry Potter",
+      "price": 20,
+      "desc": "interesting book ever"
+    },
+    {
+      "id": 2,
+      "title": "Magic city",
+      "price": 10,
+      "desc": "interesting book ever"
+    },
+    {
+      "id": 3,
+      "title": "World News",
+      "price": 25,
+      "desc": "interesting book ever"
+    },
+    {
+      "id": 4,
+      "title": "War of Stones",
+      "price": 30,
+      "desc": "interesting book ever"
+    }
+  ]
+}
